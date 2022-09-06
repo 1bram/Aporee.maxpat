@@ -1,0 +1,9 @@
+(
+  name: "Aporee",
+  summary: "Supercollider client for Aporee API",
+  version: "0.0.1",
+  schelp: "Aporee",
+  dependencies: [""],
+  license: "GPL",
+  copyright: "Tim Abramczyk"
+)
