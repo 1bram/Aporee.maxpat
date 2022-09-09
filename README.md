@@ -1,4 +1,4 @@
-# Client for Aporee.org
+# Aporee.org Max Msp Client
 
 [Aporee](https://aporee.org) Soundmap is a web based cartography for (field)recordings from all over the world, open to contributions. It contains field and location recordings from many different urban, rural, and natural environments.
 
