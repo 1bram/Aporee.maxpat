@@ -4,4 +4,4 @@
 
 Aporee also features an API that accepts geodata (latitude and longitude) and returns paths to audio files that were recorded in close proximity to the given geodata.
 
-Thansk to Udo Noll for Radio Aporee [Aporee](https://aporee.org)
+Thansk to Udo Noll for Radio [Aporee](https://aporee.org)
